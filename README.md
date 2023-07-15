@@ -97,14 +97,13 @@ TEAM_ID, MISSION_TIME, PACKET_COUNT, PACKET_TYPE, MODE, TP_RELEASED, ALTITUDE, T
 - To stop the Simulation mode, the user needs to click on the ‘Disable’ button to disable and deactivate the simulation mode
 
 ### <ins> GCS Software Prototypes </ins>
-1) #### Charts Page
-   ![WhatsApp Image 2023-07-05 at 19 51 27](https://github.com/Team-Sammard/CanSat-23_GCS_Project-Description/assets/87941867/f241ed09-4d53-424a-b0a4-59e6430a6b35)
 
-2) #### Tables Page
-   ![WhatsApp Image 2023-07-05 at 19 51 43](https://github.com/Team-Sammard/CanSat-23_GCS_Project-Description/assets/87941867/6279a1db-4577-435a-81e2-0529c849d920)
-
-3) #### Trajectory Page
-   ![WhatsApp Image 2023-07-05 at 19 51 33](https://github.com/Team-Sammard/CanSat-23_GCS_Project-Description/assets/87941867/e3c28eb3-dcec-43c8-b9db-160426485c98)
+![image](https://github.com/Jatin7385/CanSat-23_GCS_Project-Description/assets/73430464/279e1e79-6bd0-4ceb-a519-02276b0f6e31)
+![image](https://github.com/Jatin7385/CanSat-23_GCS_Project-Description/assets/73430464/39004fc3-69a9-4816-8a14-77ae8514099b)
+![image](https://github.com/Jatin7385/CanSat-23_GCS_Project-Description/assets/73430464/d584254a-0cd3-48b0-92c3-132336fb536a)
+![image](https://github.com/Jatin7385/CanSat-23_GCS_Project-Description/assets/73430464/0e84524d-0293-491a-810d-716425dc464d)
+![image](https://github.com/Jatin7385/CanSat-23_GCS_Project-Description/assets/73430464/6f736d21-9877-4871-bc6b-dcef938db7c2)
+![image](https://github.com/Jatin7385/CanSat-23_GCS_Project-Description/assets/73430464/6c064a19-a4b8-40de-9989-c2a373550ce1)
 
 
 ## Testing of the software
